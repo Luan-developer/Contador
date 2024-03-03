@@ -14,7 +14,8 @@ header{
 }
 #contador{
   background-color:#222;
-  width: 400px;
+  width: 100vh;
+  padding:20px;
   color:#fff;
   text-align:center;
   font-size:200px;
@@ -35,7 +36,7 @@ section{
   padding: 20px;
   border: none;
   border-radius: 10pc;
-  width: 400px;
+  width: 80vh;
   position:absolute;
   bottom: 150px;
 }
